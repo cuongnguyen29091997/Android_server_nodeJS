@@ -1,0 +1,2 @@
+rootProject.name='CS-K40'
+include ':app'
